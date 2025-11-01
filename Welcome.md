@@ -1,0 +1,7 @@
+```haxe
+package;
+
+class Main {
+
+}
+```
