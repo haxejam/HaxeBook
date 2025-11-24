@@ -1,7 +1,0 @@
-```haxe
-package;
-
-class Main {
-
-}
-```
