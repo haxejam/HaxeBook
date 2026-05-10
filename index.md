@@ -7,11 +7,6 @@ This book is for *anyone* who wishes to learn how to make things with the Haxe p
 
 Experienced developers might wish to jump around the pages as needed; many of the initial pages are about concepts you are likely already familiar with. To make this easier for you, the book is separated into chapters that more or less can be read by themselves. For those just starting their journey or looking for a fresh start, we are going to start off right at Chapter 0, exploring *why* we program in the first place, some basic fundamental terminology, and setting up our computer to start coding. 
 
-```python
-def main():
-	print("Quick test, ignore")
-```
-
 > i'm small.
 >
 > i have adventures!
